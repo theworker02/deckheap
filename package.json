@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/deckheap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deck URLs and heap query parts with stable normalization.",
+  "bin": {
+    "deckheap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/deckheap.git"
+  },
+  "homepage": "https://theworker02.github.io/deckheap/",
+  "keywords": [
+    "deck",
+    "heap",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
